@@ -1,0 +1,7 @@
+FAVOURITES
+----------
+FOOD : Ice-Creams, Pastery
+SHOW : Comic Films
+HOBBIES : Driving, Listening to Music
+PLACE : London
+CAR : Audi A7
